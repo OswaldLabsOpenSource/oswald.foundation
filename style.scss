@@ -257,6 +257,18 @@ section {
 	display: none !important;
 }
 
+.subtitle {
+	text-align: center;
+	color: $color;
+	margin-top: -20px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.light {
+	font-weight: lighter;
+	color: #999;
+}
+
 @media (max-width: 992px) {
 	.page {
 		margin-top: 0;
@@ -364,4 +376,20 @@ section {
 			margin-bottom: 20px;
 		}
 	}
+}
+
+.profile-pic {
+	max-width: 150px;
+	border-radius: 100%;
+}
+.team--name {
+	color: $color;
+	font-weight: bold;
+	margin-top: 20px;
+	font-size: 135%;
+}
+.team--pos {
+	color: $color;
+	font-size: 110%;
+	margin-bottom: 15px;
 }
