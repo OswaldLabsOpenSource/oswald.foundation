@@ -355,6 +355,9 @@ section {
 	.navbar-nav {
 		display: none;
 	}
+	.shravan-image-home {
+		display: none;
+	}
 	#nav:target {
 		display: block;
 		position: fixed;
@@ -478,3 +481,13 @@ dd { margin-bottom: 20px; }
 dt { margin-bottom: 5px; }
 dd strong { margin-left: 10px; }
 dt img { margin-right: 10px; }
+
+.shravan-image-home {
+	position: absolute;
+	width: 75%;
+	right: 10%;
+}
+
+section {
+	overflow: hidden;
+}
