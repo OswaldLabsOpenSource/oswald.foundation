@@ -415,6 +415,51 @@ img {
 }
 
 .feature {
+	margin-bottom: -5px;
+}
+
+.ma--b {
+	margin-bottom: 50px;
+}
+.ma-t-0 {
+	margin-top: 0;
+}
+
+.comparison--name {
+	padding: 15px 0;
+	font-size: 135%;
+	border-bottom: 1px solid #ddd;
+}
+.comparison--price {
+	color: $color;
+	font-size: 200%;
+	padding: 10px 0;
+}
+.comparison--item {
+	border-bottom: 1px solid #ddd;
+	padding: 10px 0;
+}
+.comparison--ribbon {
+	background: $color;
+	position: absolute;
+	color: #fff;
+	width: 200px;
+	height: 30px;
+	transform: rotate(45deg);
+	right: -65px;
+	line-height: 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	top: 20px;
+}
+.comparison--button a {
+	margin-bottom: 20px;
+	width: 85%;
+}
+
+.card {
+	position: relative;
+	border: 1px solid #ddd;
+	overflow: hidden;
 	border-radius: 5px;
-	margin: 20px 0;
 }
