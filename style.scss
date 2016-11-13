@@ -207,6 +207,9 @@ section {
 .ma-t {
 	margin-top: 20px;
 }
+.ma--t {
+	margin-top: 30px;
+}
 
 .social-media-icons a {
 	margin-right: 10px;
@@ -392,4 +395,14 @@ section {
 	color: $color;
 	font-size: 110%;
 	margin-bottom: 15px;
+}
+.partner-logo {
+	max-width: 80%;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+img {
+	max-width: 100%;
 }
