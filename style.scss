@@ -204,3 +204,71 @@ section {
 .ma-t {
 	margin-top: 20px;
 }
+
+.social-media-icons a {
+	margin-right: 10px;
+	font-size: 130%;
+	color: #888;
+	&:hover {
+		color: #444;
+	}
+	&:last-child {
+		margin-right: 0;
+	}
+}
+
+.btn-gray {
+	background: #ddd;
+}
+.mailing-list-form {
+	margin-top: 20px;
+}
+.mc-field-group label {
+	display: none;
+}
+
+.expand-footer-button {
+	background: #eee;
+	text-align: center;
+	padding: 10px 0;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	display: none;
+	i {
+		margin-left: 10px;
+	}
+}
+
+@media (max-width: 992px) {
+	.expand-footer-button {
+		display: block
+	}
+	.shravan-image {
+		max-width: 90%;
+	}
+	.footer-one, .footer-two, .press-row {
+		display: none;
+	}
+	.footer-two {
+		padding: 25px;
+		.col-md-4 {
+			text-align: center;
+		}
+		.col-md-2 {
+			width: 50%;
+			float: left;
+			margin-top: 25px;
+		}
+		.navbar-brand {
+			display: inline-block;
+		}
+	}
+	#colophon:target {
+		.footer-two {
+			display: block;
+		}
+		.expand-footer-button {
+			display: none;
+		}
+	}
+}

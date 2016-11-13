@@ -8,4 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
 			this.classList.remove("open");
 		});
 	});
+	document.querySelector(".footer-content").innerHTML = document.querySelector(".footer-content").innerHTML.replace("{% year %}", new Date().getFullYear());
 });
