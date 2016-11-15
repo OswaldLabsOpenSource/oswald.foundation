@@ -399,7 +399,7 @@ section {
 }
 
 .profile-pic {
-	max-width: 150px;
+	max-width: 50%;
 	border-radius: 100%;
 }
 .team--name {
@@ -412,6 +412,12 @@ section {
 	color: $color;
 	font-size: 110%;
 	margin-bottom: 15px;
+}
+.col-md-5ths .team--name {
+	font-size: 115%;
+}
+.col-md-5ths .team--pos {
+	font-size: 100%;
 }
 .partner-logo {
 	max-width: 80%;
@@ -495,4 +501,40 @@ dt img { margin-right: 10px; }
 
 section {
 	overflow: hidden;
+}
+
+.col-xs-5ths,
+.col-sm-5ths,
+.col-md-5ths,
+.col-lg-5ths {
+	position: relative;
+	min-height: 1px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.col-xs-5ths {
+	width: 20%;
+	float: left;
+}
+
+@media (min-width: 768px) {
+	.col-sm-5ths {
+		width: 20%;
+		float: left;
+	}
+}
+
+@media (min-width: 992px) {
+	.col-md-5ths {
+		width: 20%;
+		float: left;
+	}
+}
+
+@media (min-width: 1200px) {
+	.col-lg-5ths {
+		width: 20%;
+		float: left;
+	}
 }
