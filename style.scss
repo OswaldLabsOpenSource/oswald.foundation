@@ -37,8 +37,7 @@ body {
 }
 .navbar-brand img {
 	margin-right: 0.5em;
-	float: left;
-	margin-top: -5px;
+	margin-top: -2px;
 }
 .d-inline-block {
 	display: inline-block !important;
@@ -628,4 +627,11 @@ section {
 		width: 20%;
 		float: left;
 	}
+}
+
+.ribbon {
+	background: whitesmoke;
+	padding: 5px;
+	text-align: center;
+	font-size: 95%;
 }
