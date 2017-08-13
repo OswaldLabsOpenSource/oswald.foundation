@@ -4,86 +4,80 @@
       xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
             https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 <url>
   <loc>https://oswald.foundation/</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/agastya</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/shravan</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/valmiki</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/about</loc>
-  <lastmod>2016-11-13T15:44:14+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/partners</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/team</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://oswald.foundation/team/anand</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://oswald.foundation/team/nishant</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://oswald.foundation/team/mahendra</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/contact</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/press</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/kaksha</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/accessibility</loc>
-  <lastmod>2016-11-13T15:44:14+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/education</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/justice</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/environment</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/logos</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://oswald.foundation/terms</loc>
-  <lastmod>2016-11-13T15:44:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>

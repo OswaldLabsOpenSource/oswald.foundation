@@ -635,3 +635,12 @@ section {
 	text-align: center;
 	font-size: 95%;
 }
+
+.team-link {
+	color: inherit;
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+.team--links a { display: inline-block; margin: 10px 5px 0 5px; font-size: 120% }
